@@ -37,11 +37,11 @@ const lyrics = [
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
-    // Display random lyric on page load
-    const lyricDisplay = document.getElementById('lyric-display');
-    if (lyricDisplay) {
+    // Display random lyric in footer
+    const footerLyric = document.getElementById('footer-lyric');
+    if (footerLyric) {
         const randomIndex = Math.floor(Math.random() * lyrics.length);
-        lyricDisplay.textContent = lyrics[randomIndex];
+        footerLyric.textContent = lyrics[randomIndex];
     }
 
     const calendarLinks = document.querySelectorAll('.calendar-link');
