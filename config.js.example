@@ -1,0 +1,24 @@
+// Example configuration for Google Drive PDF links
+// To use:
+// 1. Ellen uploads PDFs to her private Google Drive folder
+// 2. For each PDF, right-click and select "Get link"
+// 3. Change sharing to "Anyone with the link can view"
+// 4. Copy the link and paste it below
+// 5. Rename this file to config.js
+
+const calendarData = {
+    "2025": {
+        "January": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "February": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "March": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "April": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "May": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "June": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "July": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "August": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "September": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "October": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "November": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view",
+        "December": "https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view"
+    }
+};
