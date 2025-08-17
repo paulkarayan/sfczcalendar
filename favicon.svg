@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Alligator head silhouette -->
+  <path d="M4 16 C4 14, 8 12, 12 12 L20 12 C24 12, 28 13, 28 16 C28 17, 27 18, 26 18 L25 18 L24 19 L23 18 L22 19 L21 18 L20 19 L19 18 L18 19 L17 18 L16 19 L15 18 L14 19 L13 18 L12 19 L11 18 L10 19 L9 18 L8 18 C6 18, 4 17, 4 16" fill="#22c55e"/>
+  
+  <!-- Eye -->
+  <circle cx="8" cy="15" r="1.5" fill="#fff"/>
+  <circle cx="8" cy="15" r="1" fill="#000"/>
+  
+  <!-- Nostril -->
+  <circle cx="26" cy="15" r="0.5" fill="#000"/>
+</svg>
