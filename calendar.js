@@ -10,7 +10,7 @@ const calendarData = {
         "August": "https://drive.google.com/file/d/1doeAo4zKpD5SYV-IYYsv6ark6dYMu3VI/view?usp=drive_link",
         "September": "https://drive.google.com/file/d/1JlyzaXJFusbAVNsnKfoUJwL959FDAPDy/view?usp=drive_link",
         "October": "https://drive.google.com/file/d/1ADlac0c3tm2B_H7ywOgtzL_MyAYbvATg/view?usp=drive_link",
-        "November": null,
+        "November": "https://drive.google.com/drive/u/0/folders/1uqOqspkPS6upPwllclqK_DyHYT4fxJay",
         "December": null
     }
 };
