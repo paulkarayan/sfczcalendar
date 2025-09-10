@@ -7,11 +7,11 @@ const calendarData = {
         "May": null,
         "June": null,
         "July": null,
-        "August": "https://drive.google.com/file/d/1doeAo4zKpD5SYV-IYYsv6ark6dYMu3VI/view?usp=drive_link",
+        "August": null,
         "September": "https://drive.google.com/file/d/1JlyzaXJFusbAVNsnKfoUJwL959FDAPDy/view?usp=drive_link",
         "October": "https://drive.google.com/file/d/1ADlac0c3tm2B_H7ywOgtzL_MyAYbvATg/view?usp=drive_link",
         "November": "https://drive.google.com/file/d/1EXYjm0iAimZFUVQr4z4k-iywIrj-TGyp/view",
-        "December": null
+        "December": "https://drive.google.com/file/d/111B0d1tX_Bnwh2Q1XHVM_5DN_SzkMt5-/view?usp=sharing"
     }
 };
 
