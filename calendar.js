@@ -8,10 +8,24 @@ const calendarData = {
         "June": null,
         "July": null,
         "August": null,
-        "September": "https://drive.google.com/file/d/1JlyzaXJFusbAVNsnKfoUJwL959FDAPDy/view?usp=drive_link",
-        "October": "https://drive.google.com/file/d/1ADlac0c3tm2B_H7ywOgtzL_MyAYbvATg/view?usp=drive_link",
+        "September": null,
+        "October": null,
         "November": "https://drive.google.com/file/d/1EXYjm0iAimZFUVQr4z4k-iywIrj-TGyp/view",
         "December": "https://drive.google.com/file/d/111B0d1tX_Bnwh2Q1XHVM_5DN_SzkMt5-/view?usp=sharing"
+    },
+    "2026": {
+        "January": "https://drive.google.com/file/d/1uH_If9DgUVF9hDBi8SIgj31P6YrvbsiO/view?usp=drive_link",
+        "February": "https://drive.google.com/file/d/1_Nsia7QlNUU7X-iI4UuFgPi39Oq9_IKt/view?usp=drive_link",
+        "March": null,
+        "April": null,
+        "May": null,
+        "June": null,
+        "July": null,
+        "August": null,
+        "September": null,
+        "October": null,
+        "November": null,
+        "December": null
     }
 };
 
