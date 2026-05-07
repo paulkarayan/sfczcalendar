@@ -22,8 +22,8 @@ const calendarData = {
         "June": "https://drive.google.com/file/d/1mtZgiihLiOHNTbMiDTLdzBDXlc_kEM2o/view?usp=drive_link",
         "July": "https://drive.google.com/file/d/1-h-JXX-oaB32RHJzfJYSbOhd54PnbQU4/view?usp=drive_link",
         "August": "https://drive.google.com/file/d/1MV0xivCAzxIE0_VEOzsrzPJ7A3TgqkeW/view?usp=drive_link",
-        "September": null,
-        "October": null,
+        "September": "https://drive.google.com/file/d/1zT8EEKNbCeO5NuU64XdG0xN5S-Vse556/view?usp=drive_link",
+        "October": "https://drive.google.com/file/d/1qd_1hU0DSPWTJ37YAKnYp1VlVNp4Bzea/view?usp=drive_link",
         "November": null,
         "December": null
     }
