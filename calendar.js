@@ -24,8 +24,8 @@ const calendarData = {
         "August": "https://drive.google.com/file/d/1MV0xivCAzxIE0_VEOzsrzPJ7A3TgqkeW/view?usp=drive_link",
         "September": "https://drive.google.com/file/d/1zT8EEKNbCeO5NuU64XdG0xN5S-Vse556/view?usp=drive_link",
         "October": "https://drive.google.com/file/d/1qd_1hU0DSPWTJ37YAKnYp1VlVNp4Bzea/view?usp=drive_link",
-        "November": null,
-        "December": null
+        "November": "https://drive.google.com/file/d/1VxwG7ifjRl1AmZHJZ-x1N6-i283aae4n/view?usp=drive_link",
+        "December": "https://drive.google.com/file/d/1LCaIJBzUP5sTNAl7OGIKI88vWpWkkQmn/view?usp=drive_link"
     }
 };
 
