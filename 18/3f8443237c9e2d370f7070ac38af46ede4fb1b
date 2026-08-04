@@ -1,0 +1,21 @@
+calendar.js
+  s_c5f025398758e5::t_23dba742ac20e8 27-28
+index.html
+  s_c5f025398758e5::t_23dba742ac20e8 53,60,67,74,81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "183f8443237c9e2d370f7070ac38af46ede4fb1b",
+  "prompts": {},
+  "sessions": {
+    "s_c5f025398758e5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "66af3c7b-3c35-45cb-bdbb-c05dd825fc62",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "paulkarayan <pk@unstructured.io>"
+    }
+  }
+}
