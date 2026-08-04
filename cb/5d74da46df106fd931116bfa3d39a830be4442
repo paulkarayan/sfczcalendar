@@ -1,0 +1,35 @@
+.claude/skills/update-calendar/SKILL.md
+  s_c5f025398758e5::t_f428361e8b0dcb 1-91
+.claude/skills/update-calendar/update_calendar.py
+  s_c5f025398758e5::t_c6acbe29bb1418 1-198
+.claude/groundtruth/66af3c7b-3c35-45cb-bdbb-c05dd825fc62.baseline.json
+  s_c5f025398758e5::t_699f125e118d93 1
+.claude/groundtruth/66af3c7b-3c35-45cb-bdbb-c05dd825fc62.findings.json
+  s_c5f025398758e5::t_166835da543ba3 1
+.claude/groundtruth/66af3c7b-3c35-45cb-bdbb-c05dd825fc62.md
+  s_c5f025398758e5::t_788cfbb29b0ada 1-15
+.claude/groundtruth/66af3c7b-3c35-45cb-bdbb-c05dd825fc62.refsnapshot.json
+  s_c5f025398758e5::t_097d2e25f17b21 1
+.claude/groundtruth/66af3c7b-3c35-45cb-bdbb-c05dd825fc62.tasks.json
+  s_c5f025398758e5::t_853b970bee82b3 1
+.claude/groundtruth/history.jsonl
+  s_c5f025398758e5::t_8db5dece1e9717 1-3
+.claude/groundtruth/proposed-rules.json
+  s_c5f025398758e5::t_b6f8642cd582ea 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "cb5d74da46df106fd931116bfa3d39a830be4442",
+  "prompts": {},
+  "sessions": {
+    "s_c5f025398758e5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "66af3c7b-3c35-45cb-bdbb-c05dd825fc62",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "paulkarayan <pk@unstructured.io>"
+    }
+  }
+}
