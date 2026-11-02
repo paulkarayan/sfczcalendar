@@ -26,6 +26,12 @@ const calendarData = {
         "October": "https://drive.google.com/file/d/1qd_1hU0DSPWTJ37YAKnYp1VlVNp4Bzea/view?usp=drive_link",
         "November": "https://drive.google.com/file/d/1VxwG7ifjRl1AmZHJZ-x1N6-i283aae4n/view?usp=drive_link",
         "December": "https://drive.google.com/file/d/1LCaIJBzUP5sTNAl7OGIKI88vWpWkkQmn/view?usp=drive_link"
+    },
+    "2027": {
+        "January": "https://drive.google.com/file/d/1Kg8QD1BXTTBuLUiCHW0Zn_cNV1WPtCtD/view?usp=drive_link",
+        "February": "https://drive.google.com/file/d/1ICyAWKPi-QKQHmzVWyJGat2tswDRgF0s/view?usp=drive_link",
+        "March": "https://drive.google.com/file/d/1R0_o7PMQyS0fM6mK9Yf0GkHMJjeCdjH9/view?usp=drive_link",
+        "April": "https://drive.google.com/file/d/1H3UXA6eVVGTRuX-CdpSfLnJ7UCobH70U/view?usp=drive_link"
     }
 };
 
